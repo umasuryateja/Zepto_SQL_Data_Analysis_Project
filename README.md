@@ -253,7 +253,7 @@ ORDER BY total_weight DESC;
 
 ## Future Scope
 
-- Connect the cleaned dataset to **Power BI or Tableau** for interactive dashboards
+- Connect the cleaned dataset to Power BI for interactive dashboards
 - Use **window functions** to build category-level pricing and ranking reports
 - Extend with **time-series analysis** if historical pricing snapshots become available
 - Build a **discount effectiveness analysis** to measure impact on estimated revenue
@@ -263,7 +263,7 @@ ORDER BY total_weight DESC;
 
 ## Conclusion
 
-This project demonstrates a complete, real-world data analyst workflow — from raw messy inventory data to clean, insight-ready SQL outputs. It reflects the day-to-day responsibilities of a data analyst in a retail or e-commerce environment, covering data cleaning, exploratory analysis, and business reporting entirely within SQL.
+This project demonstrates a complete, real-world data analyst workflow — from raw messy inventory data to clean, insight-ready SQL outputs. It reflects the day-to-day responsibilities of a data analyst in a retail or e-commerce environment, covering data cleaning, exploratory analysis, and business reporting entirely within SQL
 
 ---
 
