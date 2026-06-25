@@ -14,8 +14,8 @@ This project simulates the workflow of a data analyst working on an e-commerce i
 
 E-commerce companies like Zepto manage thousands of SKUs across multiple product categories. Inventory data is often messy — inconsistent pricing, missing values, and duplicate entries. The goal of this project is to:
 
-- Clean and standardize the raw inventory data
-- Explore the dataset to understand its structure and quality
+- Clean and standardize the raw inventory data.
+- Explore the dataset to understand its structure and quality.
 - Answer real business questions using SQL to support decision-making around pricing strategy, stock management, and revenue estimation.
 
 ---
