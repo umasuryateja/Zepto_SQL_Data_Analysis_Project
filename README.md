@@ -16,7 +16,7 @@ E-commerce companies like Zepto manage thousands of SKUs across multiple product
 
 - Clean and standardize the raw inventory data
 - Explore the dataset to understand its structure and quality
-- Answer real business questions using SQL to support decision-making around pricing strategy, stock management, and revenue estimation
+- Answer real business questions using SQL to support decision-making around pricing strategy, stock management, and revenue estimation.
 
 ---
 
